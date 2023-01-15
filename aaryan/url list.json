@@ -1,0 +1,19 @@
+{
+    "malicious_urls": [
+        {
+            "url": "http://malicioussite1.com",
+            "date_added": "2022-05-01",
+            "category": "phishing"
+        },
+        {
+            "url": "http://malicioussite2.com",
+            "date_added": "2022-06-15",
+            "category": "malware"
+        },
+        {
+            "url": "http://malicioussite3.com",
+            "date_added": "2022-07-20",
+            "category": "ransomware"
+        }
+    ]
+}
